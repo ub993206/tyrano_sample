@@ -29,7 +29,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=forest.jpg time=500]
 
 和也は夕暮れ時の薄暗い山道へと進んだ。[l][r]
 
